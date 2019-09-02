@@ -56,5 +56,6 @@ ___
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 Elif Demir
+[Bob Healey](https://github.com/D_Middle/)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
